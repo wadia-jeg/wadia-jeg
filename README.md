@@ -5,7 +5,7 @@
 <img style = "border: solid 2px; border-radius: 25px" align="right" heigth="80" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
 <div align="left" width= "700">
 
-# 🌱 About Me
+🌱 About Me
 
 - 🔭 I’m currently working on **web development** and exploring **cloud technologies**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL**, and **Docker**.
@@ -16,7 +16,7 @@
 
 ---
 
-# 🛠️ Technologies & Tools
+ 🛠️ Technologies & Tools
 
 **Languages:**
 - JavaScript, TypeScript, HTML, CSS, Python, C++
@@ -38,7 +38,7 @@
 
 ---
 
-# 📈 GitHub Stats
+ 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical" />
@@ -47,21 +47,21 @@
 
 ---
 
-# 💻 My Recent Projects
+ 💻 My Recent Projects
 
-### 1. **[Project Name](https://github.com/your-username/project-name)**  
+## 1. **[Project Name](https://github.com/your-username/project-name)**  
   A brief description of what the project does and the technologies used.  
   
   **Technologies**: React, Node.js, Express
 
-### 2. **[Another Project](https://github.com/your-username/another-project)**  
+## 2. **[Another Project](https://github.com/your-username/another-project)**  
   Another brief description of the project with its tech stack.  
   
   **Technologies**: Django, PostgreSQL, Bootstrap
 
 ---
 
-# 📞 Get in Touch
+ 📞 Get in Touch
 
 - 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
 - ✨ Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
@@ -69,7 +69,7 @@
 
 ---
 
-# 📝 Fun Facts
+ 📝 Fun Facts
 
 - I love building **interactive web applications**.
 - Open-source software is my passion; feel free to contribute to my projects!
@@ -77,7 +77,7 @@
 
 ---
 
-## ⚡ Let's Collaborate!
+# ⚡ Let's Collaborate!
 I'm always looking for new projects to contribute to, so if you're interested in working together, feel free to reach out! 🚀
 
 ---
