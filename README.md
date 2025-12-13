@@ -3,7 +3,7 @@
 <p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 20px;">Full Stack Developer</p>
 </div>
 <img  align="right" width="80" alt="Glasses" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
-<div align="left" width= "700">
+<div align="left" width= "70">
 
 🌱 About Me
 
