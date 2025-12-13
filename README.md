@@ -4,21 +4,87 @@
 </div>
 <img style = "border: solid 2px; border-radius: 25px" align="right" heigth="80" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
 <div align="left" width= "700">
+# 👋 Hi, I'm [Your Name]!
 
-<div align = "left" width= "700" style = "border: solid 2px">
-<p>  About me <p>
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves building impactful web applications and contributing to open-source projects. I'm always learning and exploring new technologies. Feel free to check out my work, and don't hesitate to reach out if you'd like to collaborate!
 
-<p> languages </p>
+---
 
-<p> currently learning </p>
-<h2 id="️-my-skills">⚙️ My skills</h2>
+## 🌱 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,go,nextjs,vue,flutter&perline=3)](https://skillicons.dev)
+- 🔭 I’m currently working on **web development** and exploring **cloud technologies**.
+- 🌱 I’m currently learning **TypeScript**, **GraphQL**, and **Docker**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 🤔 I’m looking for help with **cloud architecture** and **devops**.
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and anything web-related!
+- ⚡ Fun fact: I love **traveling** and **photography**.
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/go" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/black" />
+---
 
+## 🛠️ Technologies & Tools
 
+**Languages:**
+- JavaScript, TypeScript, HTML, CSS, Python, C++
 
-<p> frameworks &amp; libraries </p>
+**Frontend Frameworks & Libraries:**
+- React, Vue.js, Angular, Next.js, Bootstrap, TailwindCSS
+
+**Backend Technologies:**
+- Node.js, Express.js, Django, Flask
+
+**Databases:**
+- PostgreSQL, MongoDB, MySQL
+
+**DevOps & Cloud:**
+- AWS, Docker, Kubernetes, GitHub Actions, Terraform
+
+**Design & Tools:**
+- Figma, Adobe XD, Photoshop, Illustrator
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&count_private=true&langs_count=5&theme=radical" />
+</p>
+
+---
+
+## 💻 My Recent Projects
+
+### 1. **[Project Name](https://github.com/your-username/project-name)**  
+  A brief description of what the project does and the technologies used.  
+  
+  **Technologies**: React, Node.js, Express
+
+### 2. **[Another Project](https://github.com/your-username/another-project)**  
+  Another brief description of the project with its tech stack.  
+  
+  **Technologies**: Django, PostgreSQL, Bootstrap
+
+---
+
+## 📞 Get in Touch
+
+- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- ✨ Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- 💼 LinkedIn: [your_linkedin](https://linkedin.com/in/your-linkedin)
+
+---
+
+## 📝 Fun Facts
+
+- I love building **interactive web applications**.
+- Open-source software is my passion; feel free to contribute to my projects!
+- In my free time, I enjoy **playing video games**, **photography**, and **traveling**.
+
+---
+
+## ⚡ Let's Collaborate!
+I'm always looking for new projects to contribute to, so if you're interested in working together, feel free to reach out! 🚀
+
+---
+
+</div>
