@@ -2,7 +2,7 @@
 <p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 50px;"> Hi I'm "Name" </p>
 <p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 20px;">Full Stack Developer</p>
 </div>
-<img style = "border: solid 2px; border-radius: 25px" align="right" heigth="80" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
+<img style = "border: solid 2px; border-radius: 25px" align="right" heigth="800" alt="Glasses" src="[https://i.imgur.com/aNBi8Jf.png](https://4kwallpapers.com/images/walls/thumbs_3t/24678.png)">
 <div align="left" width= "700">
 
 🌱 About Me
