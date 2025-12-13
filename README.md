@@ -27,6 +27,6 @@
 
 
 </div>
-<img  style="height:100vh; width: 100%; object-fit: cover" alt="Glasse" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
+<img  align= "right" style="height:100vh; width: 100%; object-fit: cover" alt="Glasse" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
 </div>
 
