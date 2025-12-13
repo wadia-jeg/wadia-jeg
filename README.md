@@ -1,68 +1,66 @@
-![Header](./wadia-header.png)
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+# 👋 Hi there, I'm [Your Name]!
+
+Welcome to my GitHub profile! I'm a passionate developer who loves to learn new things and build awesome projects. I enjoy solving problems, contributing to open-source, and exploring new technologies. Feel free to explore my repositories, and if you like what you see, don’t hesitate to reach out.
+
+<div align="right">
+  <img src="https://your-image-link.com/your-image.jpg" alt="Your Image" width="200" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 🔧 Technologies & Tools I Work With
 
-###
+**Languages:**
+- Python, JavaScript, TypeScript, Ruby, C++
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+**Frameworks:**
+- React, Node.js, Flask, Django
 
-###
+**Tools:**
+- Git, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
 
-<h1 align="center">hey there 👋</h1>
+**Databases:**
+- PostgreSQL, MySQL, MongoDB
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🌱 I'm currently learning
 
-###
+- **[Technology/Skill]**: Diving deeper into [specific topic or tool].
+- **[Another Skill]**: Getting into [another technology you're learning].
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 🚀 My Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+Here are a few projects I’m proud of:
 
-###
+1. **[Project Name](https://link-to-project)**
+   - A brief description of the project. What does it do? Why is it special?
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+2. **[Another Project](https://link-to-another-project)**
+   - A short summary of the project. What technologies did you use? What challenges did you face?
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🌍 Let’s Connect
 
-###
+- **Twitter**: [@your_handle](https://twitter.com/your_handle)
+- **LinkedIn**: [your_linkedin](https://linkedin.com/in/your-linkedin)
+- **Website/Blog**: [your_website](https://yourwebsite.com)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 📝 Fun Facts
+
+- I love debugging and solving challenging problems.
+- Open-source is my passion. If you're working on something and need help, reach out!
+- In my free time, I enjoy [insert hobbies or fun facts, e.g., playing video games, cooking new recipes, etc.].
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+---
