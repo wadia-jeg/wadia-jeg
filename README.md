@@ -1,28 +1,24 @@
-<div style="background: grey; padding: 1rem;">
-  <p align="center" style="font-family: 'Arial Narrow', sans-serif; font-size: 50px;">Hi, I'm "Name"</p>
-  <p align="center" style="font-family: 'Arial Narrow', sans-serif; font-size: 20px;">Full Stack Developer</p>
+<div style="width: 100%; border: solid 2px">
+<p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 50px;"> Hi I'm "Name" </p>
+<p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 20px;">Full Stack Developer</p>
 </div>
+<img style = "border: solid 2px; border-radius: 25px" align="right" heigth="80" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
+<div align="left" width= "700">
 
-<table style="width: 100%; background: grey;">
-  <tr>
-    <td style="width: 70%; padding: 1rem;">
-      <p>About me</p>
-      <p>Languages</p>
-      <p>Currently learning</p>
-      <h2 id="️-my-skills">⚙️ My Skills</h2>
-      [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<div align = "left" width= "700" style = "border: solid 2px">
+<p>  About me <p>
 
-      <h2 id="-github-stats"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> GitHub Stats</h2>
-      <p align="center">
-        <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8">
-        <br>
-        <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
-      </p>
+<p> languages </p>
 
-      <p>Frameworks & Libraries</p>
-    </td>
-    <td style="width: 30%; padding: 1rem; text-align: center;">
-      <img style="height: 100vh; width: 100%; object-fit: cover;" alt="Glasses" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
-    </td>
-  </tr>
-</table>
+<p> currently learning </p>
+<h2 id="️-my-skills">⚙️ My skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,go,nextjs,vue,flutter&perline=3)](https://skillicons.dev)
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/black" />
+
+
+
+<p> frameworks &amp; libraries </p>
