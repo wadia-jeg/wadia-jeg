@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 🌱 About Me
+# 🌱 About Me
 
 - 🔭 I’m currently working on **web development** and exploring **cloud technologies**.
 - 🌱 I’m currently learning **TypeScript**, **GraphQL**, and **Docker**.
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 **Languages:**
 - JavaScript, TypeScript, HTML, CSS, Python, C++
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical" />
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 💻 My Recent Projects
+# 💻 My Recent Projects
 
 ### 1. **[Project Name](https://github.com/your-username/project-name)**  
   A brief description of what the project does and the technologies used.  
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 📞 Get in Touch
+# 📞 Get in Touch
 
 - 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
 - ✨ Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-## 📝 Fun Facts
+# 📝 Fun Facts
 
 - I love building **interactive web applications**.
 - Open-source software is my passion; feel free to contribute to my projects!
