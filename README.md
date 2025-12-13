@@ -1,47 +1,38 @@
-  <p align="center"><img src="https://i.imgur.com/x6qU1kR.png"> </p>
-<div>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
-<h2> / about me /</h2>
-<ul>
-<li>⭐ currently working on <strong>web-development</strong></li>
-<li>💀 mostly working on <strong>private repositories</strong></li>
-<li>👾 a <strong>student</strong> working his way around things</li>
-</ul>
-<h2> / current skills / </h2>
-<ul>
-<li>
-<h4> languages </h4>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
-<ul>
-<li>
-<h5> currently learning </h5>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="c#">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="java">
-</li>
-</ul>
-</li>
-<li>
-<h4> frameworks &amp; libraries </h4>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="react-native">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="expressjs">
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&amp;logo=expo&amp;logoColor=#D04A37" alt="expo">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="bootstrap5">
-</li>
-<li>
-<h4> designing tools </h4>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="photoshop">
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white" alt="illustrator">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
-<p><br><br></p>
-</li>
-</ul>
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div>
-<hr>
-<p>Credit: <a href="https://github.com/zillastar">zillastar</a></p>
-<p>Last Edited on: 12/11/2022</p> 
+<div style="width: 100vh; background: grey;">
+<p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 50px;"> Hi I'm "Name" </p>
+<p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 20px;">Full Stack Developer</p>
+</div>
+
+<div style="width: 100vh; background: grey; display: flex; flex-wrap: no-wrap; flex-direction: row; justify-content: space-between; ">
+
+<div style = "width: 100%; padding: 1rem">
+<p>  About me <p>
+
+<p> languages </p>
+
+<p> currently learning </p>
+<h2 id="️-my-skills">⚙️ My skills</h2>
+<p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E&amp;color=3d3919" alt="JavaScript">
+<img src="https://img.shields.io/badge/python-%230095D5.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&amp;style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;color=3280ad" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;Color=c95410" alt="Git">
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=283238" alt="GitHub">
+<img src="https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white" alt="Arch"></p>
+<h2 id="-github-stats"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats</h2>
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
+</p>
+
+<p> frameworks &amp; libraries </p>
+
+
+
+
+</div>
+<img  style="height:100vh; width: 100%; object-fit: cover" alt="Glasse" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
+</div>
+
