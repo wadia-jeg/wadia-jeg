@@ -3,9 +3,7 @@
 <p align="center" style="font-family: 'Arial Narrow', 'sans-serif'; font-size: 20px;">Full Stack Developer</p>
 </div>
 <img  align="right" width="400" alt="Glasses" src="https://4kwallpapers.com/images/walls/thumbs_3t/24678.png">
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
-<div align="left" width= "70">
-
+<div align="left" width= "500">
 🌱 About Me
 
 - 🔭 I’m currently working on **web development** and exploring **cloud technologies**.
