@@ -4,11 +4,6 @@
 </div>
 <img style = "border: solid 2px; border-radius: 25px" align="right" heigth="80" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png">
 <div align="left" width= "700">
-# 👋 Hi, I'm [Your Name]!
-
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves building impactful web applications and contributing to open-source projects. I'm always learning and exploring new technologies. Feel free to check out my work, and don't hesitate to reach out if you'd like to collaborate!
-
----
 
 # 🌱 About Me
 
