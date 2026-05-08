@@ -1,0 +1,64 @@
+<svg width="100%" viewBox="0 0 830 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Wadia — GitHub Profile</title>
+  <desc>Dark banner showing Wadia with terminal-themed geometric decoration and stack info</desc>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=JetBrains+Mono:wght@400;700&display=swap');
+    .name { font-family: 'DM Serif Display', serif; font-size: 58px; fill: #f0f0f0; }
+    .mono { font-family: 'JetBrains Mono', monospace; }
+    .accent { fill: #00a07a; }
+    .dim { fill: #555; }
+    .mid { fill: #888; }
+  </style>
+
+  <rect width="830" height="280" fill="#0d0d0d"/>
+
+  <line x1="0" y1="40" x2="830" y2="40" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="0" y1="240" x2="830" y2="240" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="40" y1="0" x2="40" y2="280" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="790" y1="0" x2="790" y2="280" stroke="#1a1a1a" stroke-width="1"/>
+
+  <rect x="33" y="33" width="14" height="14" fill="none" stroke="#00a07a" stroke-width="1"/>
+  <rect x="783" y="33" width="14" height="14" fill="none" stroke="#00a07a" stroke-width="1"/>
+  <rect x="33" y="233" width="14" height="14" fill="none" stroke="#00a07a" stroke-width="1"/>
+  <rect x="783" y="233" width="14" height="14" fill="none" stroke="#00a07a" stroke-width="1"/>
+
+  <circle cx="700" cy="140" r="72" fill="none" stroke="#1e1e1e" stroke-width="1"/>
+  <circle cx="700" cy="140" r="50" fill="none" stroke="#222" stroke-width="1"/>
+  <circle cx="700" cy="140" r="6" fill="#00a07a"/>
+  <line x1="700" y1="68" x2="700" y2="212" stroke="#1e1e1e" stroke-width="0.5"/>
+  <line x1="628" y1="140" x2="772" y2="140" stroke="#1e1e1e" stroke-width="0.5"/>
+  <line x1="649" y1="89" x2="751" y2="191" stroke="#1a1a1a" stroke-width="0.5"/>
+  <line x1="649" y1="191" x2="751" y2="89" stroke="#1a1a1a" stroke-width="0.5"/>
+
+  <line x1="700" y1="68" x2="700" y2="75" stroke="#00a07a" stroke-width="1.5"/>
+  <line x1="700" y1="205" x2="700" y2="212" stroke="#00a07a" stroke-width="1.5"/>
+  <line x1="628" y1="140" x2="635" y2="140" stroke="#00a07a" stroke-width="1.5"/>
+  <line x1="765" y1="140" x2="772" y2="140" stroke="#00a07a" stroke-width="1.5"/>
+
+  <circle cx="700" cy="68" r="2" fill="#00a07a"/>
+  <circle cx="700" cy="212" r="2" fill="#00a07a"/>
+  <circle cx="628" cy="140" r="2" fill="#00a07a"/>
+  <circle cx="772" cy="140" r="2" fill="#00a07a"/>
+
+  <text x="72" y="148" class="name">Wadia</text>
+  <rect x="72" y="160" width="160" height="2" fill="#00a07a"/>
+  <text x="72" y="190" class="mono mid" font-size="13" letter-spacing="1">fullstack engineer — frontend · backend · systems</text>
+
+  <rect x="72" y="208" width="78" height="20" rx="3" fill="#1a1a1a" stroke="#00a07a" stroke-width="0.5"/>
+  <text x="111" y="222" class="mono accent" font-size="11" text-anchor="middle">TypeScript</text>
+
+  <rect x="158" y="208" width="52" height="20" rx="3" fill="#1a1a1a" stroke="#00a07a" stroke-width="0.5"/>
+  <text x="184" y="222" class="mono accent" font-size="11" text-anchor="middle">Java</text>
+
+  <rect x="218" y="208" width="40" height="20" rx="3" fill="#1a1a1a" stroke="#00a07a" stroke-width="0.5"/>
+  <text x="238" y="222" class="mono accent" font-size="11" text-anchor="middle">Go</text>
+
+  <rect x="266" y="208" width="80" height="20" rx="3" fill="#1a1a1a" stroke="#00a07a" stroke-width="0.5"/>
+  <text x="306" y="222" class="mono accent" font-size="11" text-anchor="middle">JavaScript</text>
+
+  <rect x="354" y="208" width="54" height="20" rx="3" fill="#1a1a1a" stroke="#00a07a" stroke-width="0.5"/>
+  <text x="381" y="222" class="mono accent" font-size="11" text-anchor="middle">Rust</text>
+
+  <text x="650" y="256" class="mono accent" font-size="10" text-anchor="middle" letter-spacing="0.5">v2.0.0</text>
+</svg>
