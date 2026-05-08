@@ -1,7 +1,7 @@
 <a href="https://github.com/wadia-jeg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/dark_mode.svg">
-    <img alt="Wadia's GitHub Profile" src="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/dark_mode.svg">
+    <img alt="Wadia's GitHub Profile" src="/light_mode.svg">
   </picture>
 </a>
 
@@ -29,17 +29,17 @@
 
 **Frontend**
 ```
-TypeScript · React · Next.js · Tailwind CSS · Framer Motion
+JavaScript · TypeScript · Next.js · Angular
 ```
 
 **Backend**
 ```
-Node.js · Go · PostgreSQL · Redis · REST · GraphQL
+Go · Node.js · SpringBoot · PostgreSQL · Sqlite · REST · GraphQL
 ```
 
 **Tooling**
 ```
-Git · Docker · Linux · Neovim · CI/CD pipelines
+Git · Docker · Linux  
 ```
 
 </div>
@@ -87,7 +87,7 @@ mail  YOUR_EMAIL@domain.com
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/footer.svg">
-    <img alt="footer art" src="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/footer_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/footer.svg">
+    <img alt="footer art" src="/footer_light.svg">
   </picture>
 </div>
