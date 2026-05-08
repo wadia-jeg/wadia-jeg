@@ -1,30 +1,31 @@
-<!-- header -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║          < Wadie />                                  ║
-║          building in the dark.                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=fullstack+engineer.;frontend+that+doesn't+break.;backend+that+doesn't+lie.;shipping+quietly.)
-
-</div>
+<a href="https://github.com/wadia-jeg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/dark_mode.svg">
+    <img alt="Wadia's GitHub Profile" src="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/light_mode.svg">
+  </picture>
+</a>
 
 ---
 
-## `whoami`
+<div align="center">
 
-> I build things end-to-end — from pixel-precise UIs to the systems running underneath them.  
-> I care about **clarity**, **performance**, and code that doesn't need a comment to explain itself.  
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=1&pause=99999&color=00A07A&center=true&vCenter=true&repeat=false&width=500&height=60&lines=whoami" alt="whoami"/>
+
+</div>
+
+> I build things end-to-end — from pixel-precise UIs to the systems running underneath them.
+> I care about **clarity**, **performance**, and code that doesn't need a comment to explain itself.
 > Currently: deep in something I can't talk about yet.
 
 ---
 
-## `stack --list`
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=1&pause=99999&color=00A07A&center=true&vCenter=true&repeat=false&width=500&height=60&lines=stack+--list" alt="stack --list"/>
+
+</div>
+
+<div align="center">
 
 **Frontend**
 ```
@@ -41,57 +42,52 @@ Node.js · Go · PostgreSQL · Redis · REST · GraphQL
 Git · Docker · Linux · Neovim · CI/CD pipelines
 ```
 
----
-
-## `ls ~/projects`
-
-| project | description | status |
-|---|---|---|
-| `project-alpha` | *coming soon* | 🔒 private |
-| `project-beta` | *coming soon* | 🔒 private |
-| `open-source-thing` | *coming soon* | 🟢 public |
-
-> *Replace this table with your real work — link the repo names.*
+</div>
 
 ---
-
-## `cat curiosities.txt`
-
-- Ships features before talking about them
-- Has opinions about whitespace
-- Reads RFCs for fun (sometimes)
-- Believes good UX is mostly invisible
-- Terminal-first, always
-
----
-
-## `git log --stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadia-jeg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars)
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=1&pause=99999&color=00A07A&center=true&vCenter=true&repeat=false&width=500&height=60&lines=ls+~/projects" alt="ls ~/projects"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wadia-jeg&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
+<br/>
+
+| project | description | stack | status |
+|:---:|:---:|:---:|:---:|
+| [`project-alpha`](https://github.com/wadia-jeg/project-alpha) | What it does in one line | TS · React · PG | public |
+| [`project-beta`](https://github.com/wadia-jeg/project-beta) | What it does in one line | Go · Docker · Redis | public |
+| `project-gamma` | Coming soon | — | private |
 
 </div>
 
 ---
 
-## `contact`
+<div align="center">
 
-```bash
-# find me
-open  https://YOUR_WEBSITE.com
-mail  YOUR_EMAIL@domain.com
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=1&pause=99999&color=00A07A&center=true&vCenter=true&repeat=false&width=500&height=60&lines=git+log+--stats" alt="git log --stats"/>
 
-# or just
-gh follow wadia-jeg
-```
+[![GitHub Streak](https://streak-stats.demolab.com?user=wadia-jeg&theme=transparent&hide_border=true&stroke=00a07a&ring=00a07a&fire=00a07a&currStreakNum=00a07a&sideNums=00a07a&currStreakLabel=888888&sideLabels=888888&dates=888888)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 <div align="center">
 
-*— quietly compiling —*
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=1&pause=99999&color=00A07A&center=true&vCenter=true&repeat=false&width=500&height=60&lines=contact" alt="contact"/>
 
+```bash
+open  https://YOUR_WEBSITE.com
+mail  YOUR_EMAIL@domain.com
+```
+
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/footer.svg">
+    <img alt="footer art" src="https://raw.githubusercontent.com/wadia-jeg/wadia-jeg/main/footer_light.svg">
+  </picture>
 </div>
