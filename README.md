@@ -1,7 +1,7 @@
 <a href="https://github.com/wadia-jeg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/dark_mode.svg">
-    <img alt="Wadia's GitHub Profile" src="/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/banner.svg">
+    <img alt="Wadia's GitHub Profile" src="/banner_light.svg">
   </picture>
 </a>
 
